@@ -1,42 +1,51 @@
 {
-  "format": "elink-releases-1",
-  "updated": "2026-11-16",
-  "releases": [
-    {
-      "type": "firmware",
-      "version": 69,
-      "date": "2026-11-16",
-      "file": "firmware/elink-firmware-v69.zip",
-      "sha256": "ed273c2e8e4e4d33a1afb58ce5310abcdb8cbba285d4535954d344c3e69f7908",
-      "size": 146925,
-      "notes": "Firmware v69: new eLink look, larger update size limit (precompiled)"
-    },
-    {
-      "type": "firmware",
-      "version": 70,
-      "date": "2026-11-16",
-      "file": "firmware/elink-firmware-v70.zip",
-      "sha256": "beec429a8765307db139017e5af37aa8f4c3aea36cfad49bbc8880db6cf923ae",
-      "size": 146972,
-      "notes": "Firmware v70: Picos report when they are receiving an update (precompiled)"
-    },
-    {
-      "type": "firmware",
-      "version": 71,
-      "date": "2026-11-16",
-      "file": "firmware/elink-firmware-v71.zip",
-      "sha256": "7865019fc22e2b03771085e20d29d6ca92304ecee6ce97a4ef44b4382b3e9ef6",
-      "size": 147084,
-      "notes": "Firmware v71: firmware list shows Picos behind the network's newest version as older (precompiled)"
-    },
-    {
-      "type": "app",
-      "version": "1.6.4",
-      "date": "2026-11-16",
-      "file": "app/eLink-Customer-Manager-Setup-1.6.4.exe",
-      "sha256": "9f4c5c1de823c600f014118eb26e01501e8a9ecdd153f04b7617cce882848a3f",
-      "size": 84602349,
-      "notes": "Customer Manager 1.6.4: bundles firmware 71"
-    }
-  ]
+ "format": "elink-releases-1",
+ "updated": "2026-11-16",
+ "releases": [
+  {
+   "type": "firmware",
+   "version": 69,
+   "date": "2026-11-16",
+   "file": "firmware/elink-firmware-v69.zip",
+   "sha256": "ed273c2e8e4e4d33a1afb58ce5310abcdb8cbba285d4535954d344c3e69f7908",
+   "size": 146925,
+   "notes": "Firmware v69: new eLink look, larger update size limit (precompiled)"
+  },
+  {
+   "type": "firmware",
+   "version": 70,
+   "date": "2026-11-16",
+   "file": "firmware/elink-firmware-v70.zip",
+   "sha256": "beec429a8765307db139017e5af37aa8f4c3aea36cfad49bbc8880db6cf923ae",
+   "size": 146972,
+   "notes": "Firmware v70: Picos report when they are receiving an update (precompiled)"
+  },
+  {
+   "type": "firmware",
+   "version": 71,
+   "date": "2026-11-16",
+   "file": "firmware/elink-firmware-v71.zip",
+   "sha256": "7865019fc22e2b03771085e20d29d6ca92304ecee6ce97a4ef44b4382b3e9ef6",
+   "size": 147084,
+   "notes": "Firmware v71: firmware list shows Picos behind the network's newest version as older (precompiled)"
+  },
+  {
+   "type": "firmware",
+   "version": 72,
+   "date": "2026-11-16",
+   "file": "firmware/elink-firmware-v72.zip",
+   "sha256": "0ff240a118a190cb7547d02187c3ac38fdb2bc4f7986dc0f592daf001710ba85",
+   "size": 145139,
+   "notes": "Firmware v72: eLink wording - \"node\" instead of \"Pico\" on the dashboard and screen, default name eLink"
+  },
+  {
+   "type": "app",
+   "version": "1.6.4",
+   "date": "2026-11-16",
+   "file": "app/eLink-Customer-Manager-Setup-1.6.4.exe",
+   "sha256": "9f4c5c1de823c600f014118eb26e01501e8a9ecdd153f04b7617cce882848a3f",
+   "size": 84602349,
+   "notes": "Customer Manager 1.6.4: bundles firmware 71"
+  }
+ ]
 }
