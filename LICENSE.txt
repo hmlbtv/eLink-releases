@@ -1,0 +1,69 @@
+eLink SOFTWARE LICENCE AGREEMENT
+
+Copyright (c) 2026 HML Broadcast. All rights reserved.
+
+DRAFT FOR LEGAL REVIEW: this wording has not yet been checked by a solicitor.
+
+This agreement covers the eLink Manager and eLink Customer Manager programs, the eLink firmware that runs on Raspberry Pi Pico
+nameplates, the eLink web dashboard, and any update, release file or customer key file supplied with them (together, the "Software").
+"HML Broadcast" means the owner of the Software. "You" means the person or company that installs or uses the Software.
+
+1. Licence
+HML Broadcast grants You a non-exclusive, non-transferable, revocable licence to install and use the Software, in the form it is
+supplied, only to set up, update, monitor and run eLink nameplates that You own or are authorised to manage, and only on networks
+You are authorised to use. The Software is licensed, not sold.
+
+2. What You may not do
+You may not, and may not allow anyone else to: (a) copy, sell, rent, lease, sub-license or share the Software, except for the backup
+copies and installations this licence allows; (b) modify the Software or create derivative works from it; (c) reverse engineer,
+decompile, disassemble or try to extract source code, except to the extent the law allows despite this restriction; (d) remove or alter
+any copyright, trademark or licence notice; (e) use the Software to build or sell a competing product or service; (f) try to bypass
+update signing, licence or key protections; (g) use the Software unlawfully or to interfere with networks or devices that are not Yours.
+
+3. Customer keys
+A customer key file, vault backup, password or signing key is supplied to You for Your own nameplates only. Keep it and its password
+confidential. You must not give it to anyone else or use it on nameplates belonging to someone else. You are responsible for keeping it
+safe: HML Broadcast cannot recover a lost vault password. Keys issued to You may be withdrawn if You break this agreement.
+
+4. Ownership
+HML Broadcast and its licensors own the Software and all intellectual property rights in it, including the eLink name and logo. You
+receive only the rights this agreement expressly gives You. Nothing in this agreement transfers ownership to You or gives You a right
+to use the eLink name or logo, other than to identify the Software.
+
+5. Third-party software
+The Software includes third-party components under their own licences, listed in THIRD-PARTY-NOTICES.txt. Those licences apply to
+those components. Nothing in this agreement limits Your rights under them.
+
+6. Updates
+HML Broadcast may offer updates. An update is part of the Software and is covered by this agreement. Installing an update to a
+nameplate restarts it and takes it briefly offline. You are responsible for choosing when to apply updates to Your nameplates.
+
+7. Network use
+The eLink mesh and dashboard use HTTP and UDP on Your local network and are not encrypted. They are intended for trusted private
+networks. You are responsible for the security of the network on which You use the Software.
+
+8. No warranty
+To the fullest extent the law allows, the Software is supplied "as is" and "as available", without any warranty or condition of any
+kind, express or implied, including satisfactory quality, fitness for a particular purpose, non-infringement, or that it will be
+uninterrupted or error-free. Nothing in this agreement affects any rights You have by law that cannot be excluded.
+
+9. Limit of liability
+To the fullest extent the law allows, HML Broadcast is not liable for any loss of profit, revenue, data or goodwill, or for any indirect
+or consequential loss, arising from the Software, and its total liability for all claims relating to the Software is limited to the
+amount You paid HML Broadcast for the Software in the 12 months before the claim. Nothing in this agreement limits or excludes liability
+for death or personal injury caused by negligence, for fraud or fraudulent misrepresentation, or for anything else that cannot be limited
+or excluded by law.
+
+10. Ending this agreement
+This agreement lasts until it ends. It ends automatically if You break it. You may end it at any time by uninstalling the Software and
+deleting all copies. When it ends, You must stop using the Software and delete all copies of it, including customer key files. Sections
+3 to 5 and 8 to 12 continue after it ends.
+
+11. General
+This is the whole agreement between You and HML Broadcast about the Software. If any part is found unenforceable, the rest stays in
+force. HML Broadcast may transfer this agreement to someone who takes over the Software; You may not. Failing to enforce a right is not
+giving it up.
+
+12. Governing law
+This agreement, and any dispute arising from it, is governed by the law of England and Wales, and the courts of England and Wales have
+exclusive jurisdiction, unless the law of Your country gives You rights that cannot be limited by contract.
