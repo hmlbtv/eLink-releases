@@ -1,0 +1,24 @@
+{
+  "format": "elink-releases-1",
+  "updated": "2026-11-16",
+  "releases": [
+    {
+      "type": "firmware",
+      "version": 69,
+      "date": "2026-11-16",
+      "file": "firmware/elink-firmware-v69.zip",
+      "sha256": "ed273c2e8e4e4d33a1afb58ce5310abcdb8cbba285d4535954d344c3e69f7908",
+      "size": 146925,
+      "notes": "Firmware v69: new eLink look, larger update size limit (precompiled)"
+    },
+    {
+      "type": "app",
+      "version": "1.6.2",
+      "date": "2026-11-16",
+      "file": "app/eLink-Customer-Manager-Setup-1.6.2.exe",
+      "sha256": "2f8cc76d6667e60fcac014f083843b25b0e501d8f0e31aa9b835d9c764886ded",
+      "size": 84557219,
+      "notes": "Customer Manager 1.6.2: import your customer key file, set up new Picos over USB, update your network"
+    }
+  ]
+}
