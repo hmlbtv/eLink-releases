@@ -12,13 +12,22 @@
       "notes": "Firmware v69: new eLink look, larger update size limit (precompiled)"
     },
     {
+      "type": "firmware",
+      "version": 70,
+      "date": "2026-11-16",
+      "file": "firmware/elink-firmware-v70.zip",
+      "sha256": "427e0fbf30b82f794e7c8ed41b386934a3bbed79d1730a469f456c284a558bc7",
+      "size": 146972,
+      "notes": "Firmware v70: Picos report when they are receiving an update (precompiled)"
+    },
+    {
       "type": "app",
       "version": "1.6.2",
       "date": "2026-11-16",
       "file": "app/eLink-Customer-Manager-Setup-1.6.2.exe",
-      "sha256": "2f8cc76d6667e60fcac014f083843b25b0e501d8f0e31aa9b835d9c764886ded",
-      "size": 84557219,
-      "notes": "Customer Manager 1.6.2: import your customer key file, set up new Picos over USB, update your network"
+      "sha256": "e4fedf387b16b6ecc665fd61cc34142f179d34b2937c011e2630688155b7b966",
+      "size": 84611329,
+      "notes": "Customer Manager 1.6.2: network map, update status per Pico, import your customer key file"
     }
   ]
 }
