@@ -16,18 +16,18 @@
       "version": 70,
       "date": "2026-11-16",
       "file": "firmware/elink-firmware-v70.zip",
-      "sha256": "427e0fbf30b82f794e7c8ed41b386934a3bbed79d1730a469f456c284a558bc7",
+      "sha256": "beec429a8765307db139017e5af37aa8f4c3aea36cfad49bbc8880db6cf923ae",
       "size": 146972,
       "notes": "Firmware v70: Picos report when they are receiving an update (precompiled)"
     },
     {
       "type": "app",
-      "version": "1.6.2",
+      "version": "1.6.3",
       "date": "2026-11-16",
-      "file": "app/eLink-Customer-Manager-Setup-1.6.2.exe",
-      "sha256": "e4fedf387b16b6ecc665fd61cc34142f179d34b2937c011e2630688155b7b966",
-      "size": 84611329,
-      "notes": "Customer Manager 1.6.2: network map, update status per Pico, import your customer key file"
+      "file": "app/eLink-Customer-Manager-Setup-1.6.3.exe",
+      "sha256": "faaedf5c2a93b0aa08301059c9c98d6a050ab8d016da4459de2ead9cb956509a",
+      "size": 84610418,
+      "notes": "Customer Manager 1.6.3: Picos show online on the network map, version line, update confirmation"
     }
   ]
 }
